@@ -1,8 +1,17 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {  "directLink": true, "internal": "true", 
+      "image": "Used for SIM Activiation", 
+      "name": "DIPAK", "link": "SD Application 1", 
+      "jnlp": "false"  },
+      {  "directLink": true, "internal": "true", 
+      "image": "Used for RAW SIM Activiation", 
+      "name": "KUMAR", "link": "SD Application 2", 
+      "jnlp": "false"  },
+     {  "directLink": true, "internal": "true", 
+      "image": "Used for SIM Decativation", 
+      "name": "JENA", "link": "SD Application 3", 
+      "jnlp": "false"  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
